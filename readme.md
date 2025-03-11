@@ -69,8 +69,6 @@ Para criar a logo, utilizei inteligência artificial e alguns modelos de letras 
 
 A logo ficou muito escura, então o desafio foi encontrar uma cor mais clara para criar contraste e melhorar a visibilidade. Como não sou fã de cores muito claras, pensei em utilizar a cor de papel reciclável, que trouxe um bom contraste sem ficar excessivamente clara.
 
-<img src="./img/Feito!.png" style="height:300px; background-color: #D9C2A3">
-
 ## Desafios
 
 - Não criar o design previamente no Figma ou em outro programa similar. Fiquei em dúvida sobre o design da aplicação durante o desenvolvimento.

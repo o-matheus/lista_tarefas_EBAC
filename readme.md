@@ -20,6 +20,6 @@ Voltando para este processo usei a inteligência artificial, mais uns modelos de
 
 <img src="./img/Feito!.png" style="height:300px">
 
-Como vocês podem ver a logo ficou bem escura, então agora o desafio foi achar uma cor que fosse mais clara, para ter um contraste e maior destaque, não sou fã de cores mais claras de forma geral, fiquei pensando até que me veio a ideia de usar a cor de papel reciclável, achei que ficou bom o contraste e ao mesmo tempo não ficou tão brilhante.
+Como vocês podem ver a logo ficou bem escura, então agora o desafio foi achar uma cor que fosse mais clara, para ter um contraste e maior destaque, não sou fã de cores mais claras de forma geral, fiquei pensando até que me veio a ideia de usar a cor de papel reciclável, achei que ficou bom o contraste e ao mesmo tempo não ficou tão claro.
 
 

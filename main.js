@@ -8,4 +8,13 @@ $(document).ready(function(){
 
         $('#tarefa').val('');
     })
+
+    $('#apagar-lista').click(function(){
+        $('ul').empty();
+    })
+
+    $('ul').on('click', 'li', function(){
+        $(this).toggleClass('concluido');
+    })
+
 });

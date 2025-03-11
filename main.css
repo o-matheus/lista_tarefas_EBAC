@@ -8,7 +8,7 @@
 body {
     display: flex;
     background-color: #D9C2A3;
-    padding: 100px;
+    padding: 50px;
     
 }
 
@@ -38,23 +38,57 @@ header img {
 
 form {
     display: flex;
-    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+
     max-width: 720px;
+    margin-bottom: 40px;
 }
 
-
+.input-text {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+}
 
 input {
+    text-align: center;
     font-size: 24px;
     padding: 8px;
-    margin-right: 50px;
+    margin-bottom: 24px;
     border: none;
+    border-radius: 20px;
 }
 
-button {
-    background-color: #2F4F2F;
+.button-form {
+    display: flex;
+    flex-direction: row;
+}
+
+#nova-tarefa,
+#apagar-lista {
     color: #fff;
     font-size: 24px;
     padding: 8px 16px;
     border: none;
+    border-radius: 20px;
+}
+
+#nova-tarefa {
+    background-color: #2F4F2F;
+    margin-right: 24px;
+}
+
+#apagar-lista {
+    background-color: #8B0000;
+}
+
+
+
+ul li {
+    font-size: 24px;
+}
+
+.concluido {
+    text-decoration: line-through;
 }

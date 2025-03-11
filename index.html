@@ -21,22 +21,17 @@
             <h2>Sua lista de tarefas</h2>
         </header>
         <form>
-            <input type="text" id="tarefa" required placeholder="Digite sua tarefa">
-            <button type="submit">+ Nova Tarefa</button>
+            <div class="input-text">
+                <input type="text" id="tarefa" required placeholder="Digite sua tarefa">
+            </div>
+            <div class="button-form">
+                <button type="submit" id="nova-tarefa">+ Nova Tarefa</button>
+                <button type="reset" id="apagar-lista" >Apagar Lista</button>
+            </div>
         </form>
-        <table>
-            <thead>
-                <tr>
-                    <th>Atividades</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <th>Fazer lista de tarefas</th>
-                </tr>
-            </tbody>
-        </table>
-    </div>
+        <ul>
+            <li>Fazer lista de tarefas</li>
+        </ul>
 </body>
 
 </html>
